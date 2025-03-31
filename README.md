@@ -1,3 +1,5 @@
+Es una calculadora de consumo y propinas.
+
 Este proyecto fue hecho con React js, vite, TypeScript y con el framework de CSS Tailwinds css
 
 Cree con un customHook llamado useOrder para separar la lógica fuera de las vistas para mayor legibilidad del código
