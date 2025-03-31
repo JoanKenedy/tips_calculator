@@ -8,6 +8,6 @@ Igual se utilizo useState, useMemo al igual que useCallback
 
 En el caso de useMemo lo utilize para renderizar ciertos componentes cuando sea necesario, que igual se puede utilizar useCallback pero esta vez preferi utilizar useMemo
 
-Tambien se creamos una base de datos estatica con los productos y poder trabajar sobre ellos, con su id , name y price
+Tambien cree una base de datos estatica con los productos para poder trabajar sobre ellos, con sus propiedades id , name y price
 
-Asi como la creación de types para especificarle a TypeSript que tipo de datos son y poder utilizarlos donde se necesitan, asi crear nuevos types con base en otro utilizando la herencia y adicionando nuevas propiedades para su uso en otros compoenentes necesarios.
+Asi como la creación de types para especificarle a TypeSript que tipo de datos son y poder utilizarlos donde sean necesarios, asi como crear nuevos types con base en otros, utilizando la herencia entre types y adicionando nuevas propiedades para poder utilizarlo componentes donde deben utilizarse.
