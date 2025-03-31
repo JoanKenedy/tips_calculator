@@ -1,6 +1,6 @@
-Este proyecto fue hecho con React js, vite, TypeScript y con el framework de CSS llamado Tailwinds css
+Este proyecto fue hecho con React js, vite, TypeScript y con el framework de CSS Tailwinds css
 
-Se trabajo con un Hook que llame useOrder para trabajar la mayot parte de la lógica fuera de las vistas para su mayor legibilidad del código
+Cree con un customHook llamado useOrder para separar la lógica fuera de las vistas para mayor legibilidad del código
 
 Igual se utilizo useState, useMemo al igual que useCallback
 
