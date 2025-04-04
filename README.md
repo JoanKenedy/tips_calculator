@@ -2,7 +2,7 @@ Es una calculadora de consumo y propinas.
 
 Este proyecto fue hecho con  𝙍𝙚𝙖𝙘𝙩 𝙟𝙨, V𝙞𝙩𝙚, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩  y con el framework de css 𝙏𝙖𝙞𝙡𝙬𝙞𝙣𝙙𝙨 
 
-Se utilizo el compartir la información , estados o funciones mediante 𝙋𝙧𝙤𝙥𝙨 de componentes padres a hijos.
+Se utilizo el compartir la información , estados o funciones mediante 𝙋𝙧𝙤𝙥𝙨 de componentes padres a hijos para asi ciertos componentes puedan ser reutilizables.
 
 Cree un 𝙘𝙪𝙨𝙩𝙤𝙢𝙃𝙤𝙤𝙠𝙨 llamado 𝙪𝙨𝙚𝙊𝙧𝙙𝙚𝙧 para separar la lógica fuera de las vistas para mayor legibilidad del código.
 
